@@ -4,7 +4,7 @@ An interactive web-based simulation of quantum tunneling through single and doub
 ## Introduction
 
 
-<b>Discipline | AnISH KUMAR <b>
+<b>Discipline | ANISH KUMAR <b>
 :--|:--|
 <b> Lab |  MINI PROJECT LAB <b>
 <b> Experiment| Quantum_Tunneling_through_single-double_potential_barriers <b>
@@ -13,7 +13,7 @@ An interactive web-based simulation of quantum tunneling through single and doub
 
 Quantum tunneling is a quantum phenomenon in which a particle passes through an energy barrier even when its energy is lower than the barrier height. This simulation demonstrates tunneling through single and double potential barriers and shows how energy, barrier height, and width affect transmission and reflection.
 
-<b>Name of Developer | ASHISH KUMAR <b>
+<b>Name of Developer | ANISH KUMAR <b>
 :--|:--|
 <b> Institute | RAJKIYA ENGINEERING COLLEGE, BANDA <b>
 <b> Email id| 2507340130009@recbanda.ac.in <b>
